@@ -1,0 +1,8 @@
+{
+  "name": "antigravity-token-optimizer",
+  "version": "1.0.0",
+  "description": "High-efficiency token optimization suite: code skeletonizer (AST outline), log truncator, and compact context rules.",
+  "author": {
+    "name": "Antigravity Assistant"
+  }
+}
